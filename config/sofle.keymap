@@ -108,6 +108,6 @@
 };
 
 // Forzar el cambio del pin del sensor de batería directamente en el keymap
-&vbatt {
-    io-channels = <&adc 7>;
-};
+// &vbatt {
+//     io-channels = <&adc 7>;
+// };
